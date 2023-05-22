@@ -2,7 +2,7 @@ package src.main.java.Problem347;
 
 import java.util.*;
 
-public class Main {
+public class Solution {
     public int[] topKFrequent(int[] nums, int k) {
         if(k == nums.length) return nums;
         HashMap<Integer, Integer> map = new HashMap<>();
@@ -27,7 +27,7 @@ public class Main {
         return ans;
     }
     public static void main(String[] args) {
-        Main ob = new Main();
+        Solution ob = new Solution();
         System.out.println(Arrays.toString(ob.topKFrequent(new int[]{1, 1, 1, 2, 2, 3}, 2)));
     }
 }
