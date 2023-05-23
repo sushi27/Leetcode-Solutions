@@ -1,4 +1,4 @@
-package src.main.java.Problem703;
+package src.main.java.challenges.Problem703;
 
 import java.util.PriorityQueue;
 

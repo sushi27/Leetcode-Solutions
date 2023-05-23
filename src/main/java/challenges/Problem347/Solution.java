@@ -1,4 +1,4 @@
-package src.main.java.Problem347;
+package src.main.java.challenges.Problem347;
 
 import java.util.*;
 
