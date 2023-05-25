@@ -22,6 +22,7 @@ public class Solution {
     }
     public static void main(String[] args) {
         Solution ob = new Solution();
-        System.out.println(ob.new21Game(21, 17, 10));
+        System.out.printf("%.5f%n", ob.new21Game(21, 17, 10));
     }
+
 }
