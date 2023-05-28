@@ -1,4 +1,4 @@
-package src.main.java.algorithms.Problem73;
+package algorithms.Problem73;
 
 import java.util.Arrays;
 

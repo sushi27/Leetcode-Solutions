@@ -1,4 +1,4 @@
-package src.main.java.challenges.Problem1140;
+package challenges.Problem1140;
 
 public class Solution {
     int[] piles;

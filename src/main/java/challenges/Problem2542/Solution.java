@@ -1,4 +1,4 @@
-package src.main.java.challenges.Problem2542;
+package challenges.Problem2542;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;

@@ -1,4 +1,4 @@
-package src.main.java.algorithms.Problem54;
+package algorithms.Problem54;
 
 import java.util.ArrayList;
 import java.util.List;

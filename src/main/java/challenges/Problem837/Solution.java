@@ -1,4 +1,4 @@
-package src.main.java.challenges.Problem837;
+package challenges.Problem837;
 
 public class Solution {
     public double new21Game(int n, int k, int maxPts) {

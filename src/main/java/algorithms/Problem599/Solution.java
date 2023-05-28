@@ -1,4 +1,4 @@
-package src.main.java.algorithms.Problem599;
+package algorithms.Problem599;
 
 import java.util.*;
 
