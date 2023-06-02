@@ -29,6 +29,6 @@ Choosing index 2 is optimal: nums1[2] * nums2[2] = 3 * 10 = 30 is the maximum po
 Constraints:
 
 n == nums1.length == nums2.length
-1 <= n <= 105
-0 <= nums1[i], nums2[j] <= 105
+1 <= n <= 10^5
+0 <= nums1[i], nums2[j] <= 10^5
 1 <= k <= n
